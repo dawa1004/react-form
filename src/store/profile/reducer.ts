@@ -7,6 +7,7 @@ const init: Profile = {
   description: "",
   birthday: "",
   gender: "",
+
   address: {
     postalcode: "",
     prefecture: "",

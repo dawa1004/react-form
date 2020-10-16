@@ -1,6 +1,6 @@
 import actionCreatorFactory from "typescript-fsa";
 import { Profile } from "../../domain/entity/profile";
-import { Address } from "../../domain/entry/address";
+import { Address } from "../../domain/entity/address";
 
 const actionCreator = actionCreatorFactory();
 
